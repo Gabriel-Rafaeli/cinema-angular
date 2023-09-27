@@ -1,0 +1,4 @@
+export const environment = {
+  production: false,
+  API_URL:  "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI3ZTAwNjE0M2MyZjgwMDAwMGFhNWUyZDg2ZjVlMjFkMCIsInN1YiI6IjY0ZjhiMDQzZTBjYTdmMDBjYmU3OTY1MCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.3kQlVzWEC13sppXAgOhZl0TNObcUMa3LCwOecg0lRh4",
+};
